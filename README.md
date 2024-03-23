@@ -11,6 +11,8 @@ the <i>C++</i> and <i>Lua</i> programming languages.
 
 I'm also a <i>GNU/Linux</i> user, though still inexperienced.
 
+...<a href="https://www.pixiv.net/en/artworks/110347035">This</a> is where my profile picture came from.
+
 <!---
 neolion07/neolion07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
