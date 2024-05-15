@@ -7,7 +7,7 @@ My experience doesn't go beyond writing small and
 simple console programs.
 
 So far, I've had an enjoyable experience learning with
-the <i>C++</i> and <i>Lua</i> programming languages.
+the <i>C/C++</i> and <i>Lua</i> programming languages.
 
 I'm also a <i>GNU/Linux</i> user, though still inexperienced.
 
